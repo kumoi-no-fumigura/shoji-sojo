@@ -1,0 +1,52 @@
+{
+ "work": "正治奏状",
+ "work_id": "gunsho10-shoji-sojo",
+ "repo": "kumoi-no-fumigura/shoji-sojo",
+ "yomi": "しょうじそうじょう",
+ "category": "歌学書",
+ "description": null,
+ "editions": [
+  {
+   "pid": "1879527",
+   "title": "群書類従 第十輯",
+   "editor": "塙保己一 編",
+   "series": "",
+   "publisher": "経済雑誌社",
+   "year": 1900,
+   "pages": "p376-376",
+   "url": "https://dl.ndl.go.jp/pid/1879527"
+  }
+ ],
+ "status": "未校正（NDL 全文 OCR のまま。ルビ・柱・誤認識を含む）",
+ "license": {
+  "text": "CC0 1.0"
+ },
+ "translation": null,
+ "blocks": [
+  {
+   "id": "gunsho10-shoji-sojo-0001",
+   "pid": "1879527",
+   "pages": [
+    376
+   ],
+   "text": "卷第二百九十三正治奏狀ほの〓〓と明石の浦のあさ霧に島がくれゆくふれをしぞお",
+   "poems": [],
+   "lb": []
+  }
+ ],
+ "poems": [],
+ "catalog": {
+  "work_id": "gunsho10-shoji-sojo",
+  "work": "正治奏状",
+  "yomi": "しょうじそうじょう",
+  "category": "歌学書",
+  "era": "",
+  "author": "藤原俊成",
+  "blocks": 1,
+  "chars": 37,
+  "poems": 0,
+  "editions": 1,
+  "updated": "2026-10-30",
+  "updated_at": "2026-10-30T00:17:39+09:00"
+ }
+}
