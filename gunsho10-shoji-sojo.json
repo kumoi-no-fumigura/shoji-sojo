@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/shoji-sojo",
  "yomi": "しょうじそうじょう",
  "category": "歌学書",
- "description": null,
+ "description": {
+  "kind": "奏状",
+  "era": "正治2年（1200）",
+  "author": "藤原俊成",
+  "desc": "後鳥羽院の正治初度百首の作者選定にあたって、藤原俊成が院に奉った奏状。定家らを作者に加えるよう求めたものとして知られる。"
+ },
  "editions": [
   {
    "pid": "1879527",
@@ -47,6 +52,6 @@
   "poems": 0,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:17:39+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
